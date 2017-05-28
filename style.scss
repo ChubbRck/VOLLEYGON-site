@@ -1,0 +1,714 @@
+
+html{
+	/*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(20, 20, 20, 1.0)), color-stop(100%, rgba(70, 70, 70, 1.0)));
+background: -moz-linear-gradient(-90deg, #000,#3B3B3B);*/
+background-color: #000;
+}
+body {
+
+margin: 0;
+padding: 0;
+/*height: 100%;*/
+
+}
+p.credits{
+	font-size:12px;
+}
+.hero-container{
+	background-image:url(volleygon-masthead.jpg);
+	background-position: center center;
+	background-size:cover;
+	height: 400px;
+	width: 100%;
+}
+#mobileDesc {
+display:none;
+}
+#musicInfo{
+padding-top:15px;
+font-size: 105%;
+}
+#downloadLinks a:link{
+color: white;
+text-decoration: none;
+}
+#downloadLinks a:hover{
+color: white;
+text-decoration: none;
+}
+#downloadLinks a:visited{
+color: white;
+text-decoration: none;
+}
+#mobileDownloads a:link{
+color: white;
+text-decoration: none;
+}
+#mobileDownloads a:hover{
+color: white;
+text-decoration: none;
+}
+#mobileDownloads a:visited{
+color: white;
+text-decoration: none;
+}
+#fb-root{
+padding-top: 30px;
+}
+#containFB {
+width: 200px;
+padding-top: 2000px;
+float: right;
+}
+#spacer{
+width: 100%;
+padding: 80px;
+}
+a:link{
+color: yellow;
+text-decoration: none;
+}
+#fb-root{
+
+}
+
+#ssPane{
+padding-top: 10px;
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+}
+.lilHeader{
+font-weight: bold;
+text-decoration: underline;
+}
+a:link{
+color: yellow;
+text-decoration: none;
+}
+a:hover{
+color: yellow;
+text-decoration: none;
+}
+#mobileBox{
+display:none;
+}
+a:visited{
+color: yellow;
+text-decoration: none;
+}
+#downloadLinks{
+padding-top:15px;
+font-size: 105%;
+}
+#midHeader {
+font-family: Nokia, sans-serif;
+padding:0px;
+padding-top:0px;
+margin:0px;
+margin-bottom:5px;
+
+font-weight: bold;
+font-size: 220%;
+border-bottom: 3px solid yellow;
+}
+ html {
+height: 100%;
+ }
+@font-face {
+	font-family: Press Start;
+	src: url('PrStart.ttf')
+}
+@font-face {
+	font-family: Droid Sans;
+	src: url('DroidSans.ttf')
+}
+@font-face {
+	font-family: Nokia;
+	src: url('nokiafc22.ttf')
+}
+
+@font-face {
+	font-family: Droid Sans Bold;
+	src: url('DroidSans-Bold.ttf')
+}
+
+@font-face {
+	font-family: League Gothic;
+	src: url('League Gothic.otf')
+}
+#photo1{
+margin-top: 18px;
+}
+.photo {
+margin-left: 10px;
+margin-bottom: 10px;
+float:left;
+clear:right;
+background: -webkit-gradient(linear, left top, left bottom, from(#000), to(#3B3B3B));
+	background: -moz-linear-gradient(-90deg, #000,#3B3B3B);
+	-moz-box-shadow: 2px 2px 2px #000;
+	-moz-box-shadow: 2px 2px 2px #000;
+padding:10px;
+	-moz-box-shadow: 2px 2px 2px #000;
+  -webkit-box-shadow: 2px 2px 2px #000;
+  box-shadow: 2px 2px 2px #000;
+	/* css3 */
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+}
+#photo_2{
+padding-bottom: 5px;
+}
+.photo_2 {
+margin-left: 10px;
+margin-bottom: 7px;
+
+float:left;
+clear:right;
+background: -webkit-gradient(linear, left top, left bottom, from(#000), to(#3B3B3B));
+	background: -moz-linear-gradient(-90deg, #000,#3B3B3B);
+	-moz-box-shadow: 2px 2px 2px #000;
+padding:10px;
+padding-bottom: 7px;
+	-moz-box-shadow: 2px 2px 2px #000;
+  -webkit-box-shadow: 2px 2px 2px #000;
+  box-shadow: 2px 2px 2px #000;
+	/* css3 */
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+}
+.photo img{
+width: 125px;
+}
+#topBox {
+width: 100%;
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(20, 20, 20, 1.0)), color-stop(100%, rgba(70, 70, 70, 1.0)));
+	-moz-box-shadow: 2px 2px 2px #000;
+  -webkit-box-shadow: 2px 2px 2px #000;
+  box-shadow: 2px 2px 2px #000;
+height: 400px;
+
+}
+#gameBox{
+padding: 0px;
+padding-bottom:0px;
+// padding-left: 60px;
+display: block;
+position: relative;
+text-align: center;
+
+
+}
+.msg{
+position:absolute;
+bottom:218px;
+left:30px;
+display: inline;
+color:white;
+}
+.msgdeux{
+position:absolute;
+bottom:220px;
+left:270px;
+display: inline;
+color:white;
+}
+#mobileDownloads{
+display:none;
+}
+.shader {
+	padding-bottom:20px;
+	width: 100%;
+}
+#desc {
+color: white;
+width: 35%;
+padding-top: 0px;
+padding-left:30px;
+display: inline-block;
+vertical-align: top;
+margin: auto;
+text-align: left;
+
+font-family: 'Helvetica', sans-serif;
+
+}
+.msg2{
+display:none;
+}
+
+#headerContainer {
+display: none;
+font-family: Futura, sans-serif; 
+font-weight: 900;
+font-size: 100%;
+border-top: 0px solid #fff;
+border-bottom: 0px solid #fff;
+position: relative;
+height: 2.4em;
+letter-spacing: -4px;
+font-stretch:ultra-expanded;
+ 
+}
+.ssCont{
+	width: 40%;
+	display:inline-block;
+	margin: auto;
+}
+#centeredContainer{
+margin-left: auto;
+margin-right: auto;
+width:980px;
+
+}
+#clearfix{
+	clear:both;
+}
+.fb_edge_widget_with_comment {
+	visibility: hidden;
+}
+
+.supabold {
+font-family: Droid Sans Bold, sans-serif; 
+}
+#nickText a {
+text-decoration: none;
+color: red;
+
+}
+#nickText img {
+float: left;
+padding-right: 10px;
+
+}
+.dim {
+color: #E7E7E7;
+font-size:30%;
+}
+
+// .item {
+
+// -webkit-user-select: none;
+// -khtml-user-select: none;
+// -moz-user-select: none;
+// -o-user-select: none;
+// user-select: none;
+// color:#F0F0F0;
+// font-size: 12px;
+// width: 180px;
+// padding: 8px;
+// padding-bottom: 4px;
+// background-color: #404040;
+// border: 0px solid #fff;
+// display:inline-block;
+// position: relative;
+// margin: 10px;
+// vertical-align: top;
+// top:0;
+// background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(20, 20, 20, 1.0)), color-stop(100%, rgba(70, 70, 70, 1.0)));
+// 	-moz-box-shadow: 2px 2px 2px #000;
+//   -webkit-box-shadow: 2px 2px 2px #000;
+//   box-shadow: 2px 2px 2px #000;
+
+// }
+
+// .item a {
+// border: 0;
+// }
+// .item img {
+// float: left;
+// padding: 10px;
+// padding-bottom: 50px;
+// border: 0;
+// }
+.img-grid{
+	width: 100%;
+}
+.item{
+	padding: 20px;
+	// width: 255px;
+	// width: 25%;
+	// width: 300px;
+	max-width: 300px;
+	box-sizing:border-box;
+}
+#footerBox {
+position: relative;
+margin: auto;
+padding-top: 245px;
+width: 975px;
+font-family:"Droid Sans", sans-serif; 
+border: 0px solid #000;
+}
+
+descText {
+}
+.desc 
+{
+font-size: 14px;
+font-family: Press Start, sans-serif; 
+
+display: inline-block;
+text-align: center;
+width:100%;
+color: white;
+}
+.desc_sm 
+{
+font-size: 12px;
+font-family: Press Start, sans-serif; 
+
+display: inline-block;
+text-align: center;
+width:100%
+
+}
+
+form{
+	text-align: left;
+}
+input#tlemail{
+	width: 100%;
+    margin: auto;
+    display:block;
+    text-align:center;
+    font-size: 16px;
+    font-family: Helvetica;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    text-align: left;
+
+}
+input[type="submit"]{
+	display: block;
+	margin: auto;
+	    -webkit-appearance: none;
+	     transition: .2s all linear;
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-size: 16px;
+    font-family: "Helvetica";
+    padding: 5px 10px;
+    cursor: pointer;
+    padding: 10px 10px;
+    width: 100%;
+
+}
+
+input[type="submit"]:hover{
+	color: black;
+	background-color: white;
+}
+
+#checkOut{
+float: left;
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 255, 255, 1.0)), color-stop(100%, rgba(200, 200, 200, 1.0)));
+display: inline-block;
+position: relative;
+width: 500;
+margin: auto;
+font-family: Press Start, sans-serif; 
+color: #fff;
+font-size: 0%;
+left:0;
+padding: 4px;
+margin-left: 0px;
+line-height:15px;
+margin-top: 15px;
+}
+
+
+.platform 
+{
+
+font-family: Press Start, sans-serif; 
+
+float:right;
+display: inline-block;
+top: 0;
+
+}
+.year {
+position: relative;
+font-family: Press Start, sans-serif; 
+
+text-align: right;
+
+}
+
+#headerContainer #headerLinks {
+border-right: 2px solid #fff;
+position: relative;
+padding-right: 2px;
+display: inline;
+clear: none;
+left:0;
+
+border-bottom: 2px solid #fff;
+}
+
+#headerContainer #headerLinks a:hover{
+color: #fff;
+}
+
+#headerContainer #headerLinks a:link{
+text-decoration: none;
+color: #fff;
+}
+
+#headerContainer #headerLinks a:visited{
+color: #fff;
+}
+
+#headerContainer #headerTitle {
+color: white;
+font-size: 20px;
+height: 35px;
+float:left;
+
+}
+
+// **** Isotope filtering ****/
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
+.buttons {
+
+background-color: #8C8C8C;
+
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 255, 255, 0.9)), color-stop(100%, rgba(0, 0, 0, 0.6)));
+
+-moz-transition: background-color 0.2s ease-out;
+
+-webkit-transition: background-color 0.2s ease-out;
+
+ color:white;
+font-family: Press Start, sans-serif; 
+
+float:left;
+text-align: center;
+border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+margin-bottom: 10px;
+margin-left: 15px;
+border: 1px solid black;
+padding: 12px;
+font-size: 18 px;
+font-weight: bold;
+text-shadow: rgba(0, 0, 0, 0.5) 1px 1px 1px;
+
+
+}
+
+#miniTitle {
+
+
+
+}
+
+#miniTray {
+clear: left;
+float:left;
+
+}
+
+.sortTitle {
+padding-left: 15px;
+padding-bottom: 5px;
+font-family: Press Start, sans-serif; 
+font-size: 12 px;
+font-weight: bold;
+color: white;
+
+text-shadow: -2px 0 black, 0 2px black,
+      2px 0 black, 0 -2px black;
+
+position:relative;
+left:0;
+}
+
+#buttonTray {
+
+padding-top: 50px;
+padding-bottom:120px;
+width: 75%;
+margin-left: auto;
+margin-right: auto;
+}
+.buttons a {
+border: 5px solid #000;
+text-selection: none;
+
+
+
+display:block;
+text-decoration: none;
+
+}
+
+.buttons a:link {
+text-decoration: none;
+color: #000;
+
+}
+
+
+.buttons:hover {
+text-decoration: none;
+background-color: #fff;
+cursor: pointer; 
+
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+
+}
+
+
+.buttons:active {
+text-decoration: none;
+background-color: red;
+
+}
+
+.buttons a:visited {
+text-decoration: none;
+color: #000;
+ 
+}
+
+	
+#box {
+height:31px;
+	width:30px;
+	float:right;
+	
+	background-color: white;
+	border:2px white solid;
+	display: none;
+  
+  }
+  
+#headerTitleText {
+    float:right;
+    top:0;
+    font-size: 200%;
+    margin-right: 5px;
+    display: block-inline;
+}
+
+#mainBox{
+position: relative;
+margin: auto;
+width: 650px;
+padding-top: 90px;
+border: 0px solid #fff;
+clear: right;
+}
+
+
+#nickText 
+{
+background: -webkit-gradient(linear, left top, left bottom, from(#000), to(#3B3B3B));
+background: -moz-linear-gradient(-90deg, #000,#3B3B3B);
+	-moz-box-shadow: 2px 2px 2px #000;
+position: relative;
+width: 400px;
+margin-left: auto;
+margin-right:auto;
+float: left;
+font-family: Droid Sans, sans-serif; 
+font-size: 100%;
+color: white;
+nav-index: 1;
+z-index: 1;
+line-height:18px;
+}
+
+#library {
+display: none;
+clear: both;
+  width: 50%;
+ height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px solid white;
+  padding-left: 15px;
+  padding-right:15px;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  }
+  .isotope,
+.isotope .isotope-item {
+  /* change duration value to whatever you like */
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+          transition-property:         transform, opacity;
+}
+
+/* >> The Magnificent CLEARFIX: Updated to prevent margin-collapsing on child elements << j.mp/bestclearfix */
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; visibility: hidden; }
+.clearfix:after { clear: both; }
+/* fix clearfix: blueprintcss.lighthouseapp.com/projects/15318/tickets/5-extra-margin-padding-bottom-of-page */
+.clearfix { zoom: 1; }
+
+
+/* ============================================================================================================================
+== BUBBLE WITH AN ISOCELES TRIANGLE
+** ============================================================================================================================ */
+
+/* THE SPEECH BUBBLE
+------------------------------------------------------------------------------------ */
+
+.triangle-border {
+	position:relative;
+	padding:15px;
+	margin:1em 0 0em;
+	border:1px solid #000;
+	color:#333;
+	background:#fff;
+	-moz-box-shadow: 2px 2px 2px #000;
+  -webkit-box-shadow: 2px 2px 2px #000;
+  box-shadow: 2px 2px 2px #000;
+	/* css3 */
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+}
+
+div.item:visited{
+
+}
+div.item:active{
+
+}
+div.item:hover {
+
+}

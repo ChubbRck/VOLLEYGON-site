@@ -1,0 +1,182 @@
+body {
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(20, 20, 20, 1.0)), color-stop(100%, rgba(70, 70, 70, 1.0))) fixed;
+background: -moz-linear-gradient(-90deg, #000,#3B3B3B) fixed;
+margin: 0;
+padding: 0;
+height: 100%;
+
+}
+.msgdeux{
+display: none;
+}
+#mobileDesc {
+color: white;
+display: inline-block;
+}
+#mobileBox {
+padding: 10px;
+display: inline-block;
+position: relative;
+}
+
+a:link{
+color: yellow;
+text-decoration: none;
+}
+#ssPane{
+padding-top: 20px;
+display:none;
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+}
+.lilHeader{
+display:none;
+font-weight: bold;
+text-decoration: underline;
+}
+a:hover{
+color: yellow;
+text-decoration: none;
+}
+
+a:visited{
+color: yellow;
+text-decoration: none;
+}
+#downloadLinks{
+display:none;
+padding-top:15px;
+font-size: 105%;
+}
+#midHeader {
+display:none;
+font-family: Nokia, sans-serif;
+padding:0px;
+padding-top:25px;
+margin:0px;
+margin-bottom:5px;
+
+font-weight: bold;
+font-size: 120%;
+border-bottom: 3px solid yellow;
+}
+ html {
+ height: 100%;
+ }
+@font-face {
+	font-family: Press Start;
+	src: url('PrStart.ttf')
+}
+@font-face {
+	font-family: Droid Sans;
+	src: url('DroidSans.ttf')
+}
+@font-face {
+	font-family: Nokia;
+	src: url('nokiafc22.ttf')
+}
+
+@font-face {
+	font-family: Droid Sans Bold;
+	src: url('DroidSans-Bold.ttf')
+}
+
+@font-face {
+	font-family: League Gothic;
+	src: url('League Gothic.otf')
+}
+
+#topBox {
+display:none;
+width: 100%;
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(20, 20, 20, 1.0)), color-stop(100%, rgba(70, 70, 70, 1.0)));
+	-moz-box-shadow: 2px 2px 2px #000;
+  -webkit-box-shadow: 2px 2px 2px #000;
+  box-shadow: 2px 2px 2px #000;
+height: 400px;
+
+}
+#gameBox{
+display:none;
+padding: 10px;
+padding-left:20px;
+display: inline-block;
+position: relative;
+
+}
+.msg{
+position:absolute;
+bottom:5px;
+display:none;
+left:5px;
+color:white;
+}
+.msg2{
+position:absolute;
+bottom:5px;
+left:5px;
+color:white;
+
+}
+#mobileDownloads{
+padding-top:30px;
+color: white;
+width: 100%;
+text-align:center;
+font-family: Helvetica, sans serif;
+font-size: 200%;
+font-weight: bold;
+}
+#shader {
+display:none;
+	-moz-box-shadow: 2px 2px 2px #000;
+  -webkit-box-shadow: 2px 2px 2px #000;
+  box-shadow: 2px 2px 2px #000;
+}
+#shader2 {
+display: inline-block;
+	-moz-box-shadow: 2px 2px 2px #000;
+  -webkit-box-shadow: 2px 2px 2px #000;
+  box-shadow: 2px 2px 2px #000;
+}
+#desc {
+display:none;
+color: white;
+width: 150px;
+padding-top: 10px;
+padding-left:5px;
+display: none;
+vertical-align: top;
+
+font-family: Helvetica, sans-serif;
+
+}
+#mobileDesc {
+display:none;
+color: white;
+width: 150px;
+padding-top: 10px;
+padding-left:5px;
+display: inline-block;
+vertical-align: top;
+
+font-family: Helvetica, sans-serif;
+
+}
+#headerContainer {
+
+font-family: Nokia, sans-serif; 
+font-size: 200%;
+border-top: 0px solid #fff;
+border-bottom: 0px solid #fff;
+
+ color:white;
+}
+
+#centeredContainer{
+margin-left: auto;
+margin-right: auto;
+width:100%;
+
+}

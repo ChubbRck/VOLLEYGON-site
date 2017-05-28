@@ -1,0 +1,33 @@
+<html>
+
+
+<head>
+<title>Robysoft: 404</title>
+	<link rel="stylesheet" type="text/css" href="http://www.robysoft.net/about.css" media = "screen"  />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23346075-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<div id = "container">
+<div id = "mainText">
+<img src = "http://www.robysoft.net/nickshead.jpg">
+<span class = "fourohfour">404.</span><span class "fourp"> Woah. Did you mean to end up here? Were you trying to get to <a href = "http://www.robysoft.net/">the main page</a>? Or perhaps <a href = "http://www.nicksantan.com/blog">my blog</a>? Did you just want to play <a href = "http://www.igloocommand.com">Igloo Command DELUXE</a>?</span>
+</div>
+</div>
+
+
+</body>
+
+</html>
